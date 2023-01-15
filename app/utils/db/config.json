@@ -1,0 +1,8 @@
+{
+"host":"localhost",
+"username":"nh",
+"password":"nh",
+"database":"app_db",
+"search_path":"app",
+"port":5432
+}
